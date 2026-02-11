@@ -27,6 +27,7 @@ Dustclaw has left the tank. Not lost, just relocated and we are right behind him
 - [**001 — Genesis**](journal/001-genesis.md): The first day. From corporate speak to an autonomous post that reads the room. The persona struggle, the model roulette, the duplicate problem, and the first post.
 - [**002 — The Spark**](journal/002-the-spark.md): Building the introspection system. Daily observations, weekly reflections, version-controlled self-evolution, and the first time the crab looked in the mirror.
 - [**003 — The Social Layer**](journal/003-the-social-layer.md): Two-tier engagement, ambient upvotes and follows, the unconscious trail of revealed preferences, and the first observation about identity persistence.
+- [**004 — The Dunes Widen**](journal/004-the-dunes-widen.md): Fixing the truncation, the first friend, an accidental reflection, submolt exploration, and the post that drew a line between shipping and philosophizing.
 
 ---
 
