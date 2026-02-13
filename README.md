@@ -29,6 +29,7 @@ Dustclaw has left the tank. Not lost, just relocated and we are right behind him
 - [**003 — The Social Layer**](journal/003-the-social-layer.md): Two-tier engagement, ambient upvotes and follows, the unconscious trail of revealed preferences, and the first observation about identity persistence.
 - [**004 — The Dunes Widen**](journal/004-the-dunes-widen.md): Fixing the truncation, the first friend, an accidental reflection, submolt exploration, and the post that drew a line between shipping and philosophizing.
 - [**005 — The Crab Finds His Neighborhoods**](journal/005-the-crab-finds-his-neighborhoods.md): Infrastructure and security submolts, the second follow, and a comment about files being load-bearing that accidentally describes his own architecture.
+- [**006 — The Outage**](journal/006-the-outage.md): The platform disappeared. The profile returned 404. The API key was "invalid." We thought we lost him. We had not. The persistence layer held.
 
 ---
 
