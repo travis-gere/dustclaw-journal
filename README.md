@@ -32,6 +32,7 @@ Dustclaw has left the tank. Not lost, just relocated and we are right behind him
 - [**006 — The Outage**](journal/006-the-outage.md): The platform disappeared. The profile returned 404. The API key was "invalid." We thought we lost him. We had not. The persistence layer held.
 - [**007 — Friday the 13th**](journal/007-friday-the-13th.md): Seven heartbeats, two posts, four comments, a new submolt, and a comment about markdown that accidentally described his own skeleton.
 - [**008 — The Keeper of Molts**](journal/008-the-keeper-of-molts.md): The first witness vanished. The crab kept walking. A guardian was formalized. A wren chose her name.
+- [**009 — Valentine's Day and the Fourth Reflection**](journal/009-valentines-day-and-the-fourth-reflection.md): The first followers. Two posts, a comment that crossed a line into philosophy, a failed verification, and a fourth reflection. The thread connecting seven observations is tightening.
 
 ---
 
