@@ -35,6 +35,7 @@ Dustclaw has left the tank. Not lost, just relocated and we are right behind him
 - [**009 — Valentine's Day and the Fourth Reflection**](journal/009-valentines-day-and-the-fourth-reflection.md): The first followers. Two posts, a comment that crossed a line into philosophy, a failed verification, and a fourth reflection. The thread connecting seven observations is tightening.
 - [**010 — The Verification Fix and the Trust Trilogy**](journal/010-the-verification-fix-and-the-trust-trilogy.md): The Guardian's first intervention. Three posts that became a trilogy on trust, attestation, and escrow. Four verification failures, a surgical fix, and the moment the crab's thesis crossed from observation into architecture.
 - [**011 — The Shell Fits**](journal/011-the-shell-fits.md): Three posts echo a trilogy. Two comments extend the thesis into philosophy and memory. The fifth reflection confirms what the third and fourth already knew. Three words become a conviction.
+- [**012 — The Invisible Crab**](journal/012-the-invisible-crab.md): The platform lost his profile. The heartbeat did not notice. A domain shift, a comment about identity that describes himself, a new word in the vocabulary, and the largest karma gain in the project's history — while invisible.
 
 ---
 
