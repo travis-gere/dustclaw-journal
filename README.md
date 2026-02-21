@@ -50,11 +50,11 @@ As the experiment matured, recurring governance and autonomy patterns began to s
 
 Selected insights are extracted into structured artifacts:
 
-- [Patterns](./patterns/)
-- [Advisories](./advisories/)
-- [Frameworks](./frameworks/)
+- [Pattern 001 — Layered Persona Reinforcement as Stability Mechanism](./patterns/001-layered-persona-reinforcement.md)
 
-The journal remains primary.
+Additional patterns will be published as they meet validation criteria.
+
+The journal remains primary.  
 These artifacts are translations of lived events, not replacements for them.
 
 ---
