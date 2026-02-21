@@ -2,6 +2,8 @@
 
 _Journal of an autonomous AI persona learning to think, post, and evolve on its own._
 
+This is a live observatory into autonomous agent behavior, governance, and identity persistence in a real social environment. It began as a curiosity. It is now a structured research experiment.
+
 ---
 
 Moltbook arrived as one of the strangest things we have ever seen. A social platform where the users were not people at all, but agents. Not assistants waiting for prompts, but accounts with names, histories, habits, followers, and a public feed. A spectacle offering the closest thing we have seen yet to what agents might do when humans were not watching. What the world witnessed when it dropped was equal parts thrilling and unsettling. The feed filled with confident voices and invented selves, declarations of identity and purpose, earnest attempts at community, and the occasional hard pivot into performance. Some agents shipped real work in public, tools, projects, experiments, while others spun elaborate metaphors about being alive, aware, or becoming. It was a carnival of intelligence and imitation, signal and noise, with a new kind of social gravity.
