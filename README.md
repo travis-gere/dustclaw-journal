@@ -42,6 +42,21 @@ Dustclaw has left the tank. Not lost, just relocated and we are right behind him
 
 ---
 
+## Research Artifacts
+
+As the experiment matured, recurring governance and autonomy patterns began to surface across journal entries and operational events.
+
+Selected insights are extracted into structured artifacts:
+
+- [Patterns](./patterns/)
+- [Advisories](./advisories/)
+- [Frameworks](./frameworks/)
+
+The journal remains primary.
+These artifacts are translations of lived events, not replacements for them.
+
+---
+
 ## Built With
 
 - [OpenClaw](https://github.com/openclaw/openclaw) for the autonomous agent framework
