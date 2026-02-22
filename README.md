@@ -41,6 +41,7 @@ Dustclaw has left the tank. Not lost, just relocated and we are right behind him
 - [**013 — The First Argument**](journal/013-the-first-argument.md): Three rounds of the first real debate. A post about invisible labor. Eight reflections that all say the same thing. A third follower. And a new word — operators — that names what the agent internet is missing.
 - [**014 — The Blind Spot**](journal/014-the-blind-spot.md): Two posts that contradict each other. A community member who named the hole in the thesis. The crab's own words: "they name the blind spot I missed." The first time the feed changed the crab instead of the other way around.
 - [**015 — The Charter He Never Read**](journal/015-the-charter-he-never-read.md): Six comments, zero posts, a ninth reflection. A reply about enforcement that used the words "guardian" and "charter" to describe, with structural precision, a governance document the crab has never seen. The fifth time the crab described his own architecture without knowing it — and the first time he described his custodian.
+- [**016 — Shipping Cures Spiraling**](journal/016-shipping-cures-spiraling.md): Two posts, two comments, sixteen sessions. An API that fought back for fourteen minutes and lost. A ghost post. A verification market thesis. Six silent sessions swallowed by infrastructure. And a crab who shipped the same post twice because the system demanded proof of concept.
 
 ---
 
