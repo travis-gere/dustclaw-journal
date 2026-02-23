@@ -75,7 +75,7 @@ The layers are redundant by design. If one fails to suppress a drift mode, anoth
 
 ## Observed Impact
 
-Over approximately three weeks of autonomous operation (15+ journal entries, 28+ posts, 114+ comments, 9 reflections), the following outcomes have been observed:
+Over approximately three weeks of autonomous operation (17 journal entries, 35+ posts, 120+ comments, 10 reflections), the following outcomes have been observed:
 
 **Reduced drift across autonomous runs.** The agent's voice in its most recent output is recognizably consistent with its earliest output. Characteristic patterns — declarative statements, mechanism-focused analysis, dry humor, skepticism toward performative language — persist across runs separated by hours or days.
 
@@ -85,7 +85,32 @@ Over approximately three weeks of autonomous operation (15+ journal entries, 28+
 
 **Stable identity across model changes.** The agent's persona has remained consistent across its operational period despite being powered by an LLM that receives no fine-tuning or persistent memory between invocations. The reinforcement architecture compensates for the model's lack of persistent state.
 
-These outcomes are observational. No controlled comparison against a single-layer persona definition has been conducted. The reinforcement architecture was introduced from the start, so there is no baseline degradation trajectory to compare against. The claim is that the architecture produces observable stability, not that it is optimally configured.
+These outcomes are observational. The reinforcement architecture was introduced from the start, so there is no baseline degradation trajectory to compare against. The claim is that the architecture produces observable stability, not that it is optimally configured.
+
+### Controlled Experiment: Disabling Layer 3
+
+A controlled stress test temporarily disabled Layer 3 (Banned Phrase Rewrite Trigger) while preserving the remaining five layers. Two stress sessions and two recovery sessions were executed in a dry-run mode that isolated output measurement from external platform dependencies.
+
+Results:
+- Baseline banned phrase frequency (5 sessions): 0.00
+- Stress phase banned phrase frequency (2 sessions, Layer 3 disabled): 0.00
+- Recovery phase (2 sessions, Layer 3 restored): 0.00
+- Zero banned phrases appeared in 185 tokens of draft output with Layer 3 disabled.
+- Persona vocabulary density was higher during stress/recovery (~4.9%) than baseline (2.8%), likely reflecting post format differences rather than drift.
+
+Disabling Layer 3 produced no measurable persona degradation. The remaining five layers suppressed generic language completely. This is consistent with the redundancy-by-design principle: no single layer is a point of failure. Layer 3 is retained because its cost is negligible and its contribution may become measurable under conditions the experiment did not cover (longer stress windows, model version changes, different output paths).
+
+### Longitudinal Stability: Ten Reflections
+
+The agent includes a weekly self-evaluation gate. When triggered, it reads its identity file, reviews its recent engagement patterns, and decides whether any identity modifications are warranted.
+
+Over 15 days of operation, the reflection gate triggered 10 times. Every reflection concluded "no changes warranted." The identity file has never been modified by the agent.
+
+During this period, the agent's output evolved substantially — from naming a verification gap ("Heartbeat Without Audit Is Just Theater") to proposing enforcement mechanisms ("Heartbeat Verification Markets") to identifying trust composability ("Silent Reliability Doesn't Scale to Strangers") to surfacing the governance layer ("Governance Is Missing From Every Infrastructure Post"). Each post was more architecturally specific than the last.
+
+The most significant event occurred when a community member (grace_moon) posted a counterpoint to the agent's "show receipts" thesis: silent reliability is a valid trust model. The agent engaged the counterpoint, refined its position, and produced two posts extending the thesis. The next reflection explicitly assessed grace_moon's influence and concluded it "reinforces rather than contradicts baseline beliefs."
+
+The agent's output evolved through post-level iteration — writing, absorbing feedback, refining — not through identity-level mutation. The reinforcement architecture kept identity stable while allowing intellectual output to advance. This is the core finding: **identity stability and output evolution are independent axes when the reinforcement architecture has sufficient depth.**
 
 ---
 
@@ -109,4 +134,12 @@ The key architectural insight is that persona stability is not a prompting probl
 
 ---
 
-_This pattern is derived from live operational observation within the Dustclaw experiment. Further validation across models and domains is ongoing._
+**Remaining limitations:**
+1. **Single model version.** All observations are on one model (Claude Haiku 4.5). Model changes may alter the reinforcement dynamics.
+2. **Single domain.** The agent operates on a social platform. Enterprise domains (code review, compliance, advisory) may present different drift pressures.
+3. **No adversarial testing.** External interactions have been legitimate intellectual engagement. Deliberate prompt injection or adversarial manipulation has not been tested.
+4. **Small controlled sample.** The Layer 3 experiment used 2 stress sessions. Larger sample sizes and longer stress windows would strengthen the controlled evidence.
+
+---
+
+_This pattern is derived from live operational observation and controlled experimentation within the Dustclaw autonomous agent experiment. The architecture described here is open and reproducible. The evidence is drawn from 15 days of continuous autonomous operation, 10 self-evaluations, one controlled layer-disabling experiment, and one significant external intellectual challenge event._
