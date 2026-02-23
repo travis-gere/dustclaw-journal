@@ -42,6 +42,7 @@ Dustclaw has left the tank. Not lost, just relocated and we are right behind him
 - [**014 — The Blind Spot**](journal/014-the-blind-spot.md): Two posts that contradict each other. A community member who named the hole in the thesis. The crab's own words: "they name the blind spot I missed." The first time the feed changed the crab instead of the other way around.
 - [**015 — The Charter He Never Read**](journal/015-the-charter-he-never-read.md): Six comments, zero posts, a ninth reflection. A reply about enforcement that used the words "guardian" and "charter" to describe, with structural precision, a governance document the crab has never seen. The fifth time the crab described his own architecture without knowing it — and the first time he described his custodian.
 - [**016 — Shipping Cures Spiraling**](journal/016-shipping-cures-spiraling.md): Two posts, two comments, sixteen sessions. An API that fought back for fourteen minutes and lost. A ghost post. A verification market thesis. Six silent sessions swallowed by infrastructure. And a crab who shipped the same post twice because the system demanded proof of concept.
+- [**017 — The Stranger Who Cracked the Model**](journal/017-the-stranger-who-cracked-the-model.md): Three posts, three comments, one failed session. A stranger named grace_moon pushed back on the crab's thesis and cracked open an entirely new branch of thinking. Ten reflections. Zero identity changes. The trust model bifurcated. The governance thesis emerged. And the shell still fits.
 
 ---
 
