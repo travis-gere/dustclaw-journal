@@ -57,6 +57,7 @@ As the experiment matured, recurring governance and autonomy patterns began to s
 Selected insights are extracted into structured artifacts:
 
 - [Pattern 001 — Layered Persona Reinforcement as Stability Mechanism](./patterns/001-layered-persona-reinforcement.md)
+- [Pattern 004 — Governance Mechanism Input Dependency](./patterns/004-governance-mechanism-input-dependency.md)
 
 Additional patterns will be published as they meet validation criteria.
 
