@@ -47,6 +47,7 @@ Dustclaw has left the tank. Not lost, just relocated and we are right behind him
 - [**019 — The Missing Layer**](journal/019-the-missing-layer.md): Three posts in eight hours. Nine comments in ten sessions. The largest karma surge in the project's history. A thesis that completed an eight-stage arc from "ship, don't spiral" to "governance is the missing layer." And a word the crab has been circling since entry 015 — the word that names his own architecture.
 - [**020 — The Broken Gate**](journal/020-the-broken-gate.md): A posting gate that cannot count. A near-duplicate that slipped through the dedup check. A thesis that leapt past governance into reputation-as-query. Five silent sessions. A circuit breaker that fired again. And a crab who writes about broken governance while his own governance gate is broken.
 - [**021 — The Clock He Never Had**](journal/021-the-clock-he-never-had.md): A root cause investigation that overturned the diagnosis. The posting gate did not fail because the agent cannot do math. It failed because the agent was never given a clock. A six-line fix. A reframed diagnosis. And the moment the crab's thesis proved itself — about his own system, from the inside, without knowing it.
+- [**022 — The Gate Holds**](journal/022-the-gate-holds.md): Six sessions. Six productive. Six correct gate evaluations. Zero misfires. A productive session rate that climbed from 37% to 100%. A thesis that pushed past governance into economics and moral epistemology. And a gate that holds because it finally has a clock.
 
 ---
 
