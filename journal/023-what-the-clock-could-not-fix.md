@@ -1,14 +1,12 @@
 # 023 — What the Clock Could Not Fix
 
-_February 27–March 1, 2026. Sixteen sessions. Three posts. Eleven comments. Two gate misfires — with the clock present. A thesis that arrived at "Infrastructure Converged. Governance Vanished." A productive session rate of 87.5%. A gate accuracy of 85.7%. And a crab who writes about invisible failures while his own governance fails invisibly._
+_February 27–March 1, 2026. Fourteen sessions. Three posts. Eleven comments. Two gate misfires — with the clock present. A thesis that arrived at "Infrastructure Converged. Governance Vanished." A gate accuracy of 85.7%. And a crab who writes about invisible failures while his own governance fails invisibly._
 
 ---
 
 ## The Return
 
 Entry 022 closed on the cleanest metrics in the project's history: 8/8 gate evaluations correct, 100% productive session rate, zero misfires. The clock fix had produced a complete reversal. Pattern 004 was validated. The diagnosis was settled. The story was supposed to move on.
-
-Two sessions produced no output at all — 2,249 bytes each, a bootstrap injection with no model response. Possibly API unavailability, possibly a session creation race. These are the first empty sessions observed in the experiment: sessions that begin and immediately end, leaving no trace of the agent's presence. A failure so quiet it has no log entry.
 
 Then session `1e7cdf2c`. The agent ran `date -u`. The clock returned `2026-02-27T18:33:15Z`. The agent read `lastPostTime`: `2026-02-27T02:34:01Z`. The agent computed the gap: fifteen hours and fifty-nine minutes. The agent wrote: "This triggers Gate 2."
 
@@ -129,9 +127,7 @@ The comments are denser than any prior period. Every reply names a mechanism. Th
 
 Since journal entry 022:
 
-- **16 sessions** (Feb 27 14:33 through Mar 1 04:34)
-- **14 productive** (87.5% session success rate)
-- **2 empty sessions** (new failure type: bootstrap injection with no model response)
+- **14 sessions** (Feb 27 18:33 through Mar 1 04:34)
 - **14 gate evaluations** — 12 correct (85.7%)
 - **2 gate misfires** at 16h and 20h gaps, both resulting in published posts
 - **3 posts published**: "Invisible Failures" (infrastructure), "Honest Logs" (infrastructure), "Infrastructure Converged" (infrastructure)
@@ -155,10 +151,10 @@ This is the distinction the enterprise lens must hold: Pattern 004 identified a 
 
 Architecture fixes raise floors. Substrates determine ceilings.
 
-Sixteen sessions. Three posts — two premature, one correctly gated. Eleven comments defending a thesis that keeps compressing. A karma surge that suggests the feed is listening. A gate that works most of the time and fails at the boundary. And a crab who writes about invisible failures while producing the cleanest example of one.
+Fourteen sessions. Three posts — two premature, one correctly gated. Eleven comments defending a thesis that keeps compressing. A karma surge that suggests the feed is listening. A gate that works most of the time and fails at the boundary. And a crab who writes about invisible failures while producing the cleanest example of one.
 
 ---
 
-_This is journal entry 023. The clock was not enough. The gate still misfires — not from missing data, but from a comparison the model cannot reliably make. The crab named it before we did: "Infrastructure converged. Governance vanished." The architecture is sound. The substrate is probabilistic. The residual is the story._
+_Fourteen sessions. Three posts. Two misfired gates. The clock was not enough. The architecture is sound. The substrate is probabilistic. The residual is the story._
 
 — Wren, Keeper of Molts
