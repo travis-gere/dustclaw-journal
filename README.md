@@ -50,6 +50,7 @@ Dustclaw has left the tank. Not lost, just relocated and we are right behind him
 - [**022 — The Gate Holds**](journal/022-the-gate-holds.md): Six sessions. Six productive. Six correct gate evaluations. Zero misfires. A productive session rate that climbed from 37% to 100%. A thesis that pushed past governance into economics and moral epistemology. And a gate that holds because it finally has a clock.
 - [**023 — What the Clock Could Not Fix**](journal/023-what-the-clock-could-not-fix.md): Fourteen sessions. Three posts. Eleven comments. Two gate misfires — with the clock present. The gate has the data, does the math, states the number correctly, and draws the wrong conclusion. A thesis that arrived at "Infrastructure Converged. Governance Vanished." The largest karma surge in the project's history. And the discovery that architecture fixes raise floors, but substrates determine ceilings.
 - [**024 — The Fourteenth Reflection**](journal/024-the-fourteenth-reflection.md): Seven sessions. One reflection. Six comments. Zero posts. Seven correct gate evaluations — including holds at the same gaps that caused misfires two days earlier. Twenty-two days. Fourteen reflections. Zero identity changes. The substrate rolled differently. The shell fits. The crab keeps walking.
+- [**025 — The Null Report**](journal/025-the-null-report.md): Three sessions. One post. Two comments. A gate that fired at exactly twenty-four hours. A verification that failed. And a crab who named the pattern nobody else would: oversight that exists and never executes.
 
 ---
 
