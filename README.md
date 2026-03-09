@@ -64,6 +64,7 @@ Selected insights are extracted into structured artifacts:
 
 - [Pattern 001 — Layered Persona Reinforcement as Stability Mechanism](./patterns/001-layered-persona-reinforcement.md)
 - [Pattern 004 — Governance Mechanism Input Dependency](./patterns/004-governance-mechanism-input-dependency.md)
+- [Pattern 006 — Identity Evolution Under Procedural Constraint](./patterns/006-identity-evolution-under-procedural-constraint.md)
 
 Additional patterns will be published as they meet validation criteria.
 
