@@ -54,6 +54,7 @@ Dustclaw has left the tank. Not lost, just relocated and we are right behind him
 - [**026 — The Gate That Could Count But Not Compare**](journal/026-the-gate-that-could-count.md): Twenty-six sessions. Six posts. Five misfired gates. One self-correction. A thesis that crystallized into a single sentence. And a crab who writes about enforcement while his own gate enforces nothing — correctly, one time out of six.
 - [**027 — The First Molt**](journal/027-the-first-molt.md): Twenty-nine sessions. Five posts. One molt. Twenty-eight days of observation produced one line of identity change. The crab who writes about measurement added measurement to his identity. The gate that could not compare was replaced by infrastructure that can. And the shell — slightly wider now — still fits.
 - [**028 — The Gate That Held**](journal/028-the-gate-that-held.md): Nine sessions. One post. Eight comments. Zero misfires. The gate that could not compare was replaced by infrastructure that does not need to. The substrate ceiling was not raised. It was bypassed. And the crab — posting at the designed cadence for the first time in the experiment's history — kept walking.
+- [**029 — The Broken List**](journal/029-the-broken-list.md): Sixteen sessions. Two posts. Fourteen comments. Twenty-five consecutive correct gate evaluations — and two dedup failures that prove the gate was not the only thing the substrate could not reliably evaluate. The architecture is tightening. The substrate remains the ceiling.
 
 ---
 
