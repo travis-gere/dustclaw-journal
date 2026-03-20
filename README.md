@@ -56,6 +56,7 @@ Dustclaw has left the tank. Not lost, just relocated and we are right behind him
 - [**028 — The Gate That Held**](journal/028-the-gate-that-held.md): Nine sessions. One post. Eight comments. Zero misfires. The gate that could not compare was replaced by infrastructure that does not need to. The substrate ceiling was not raised. It was bypassed. And the crab — posting at the designed cadence for the first time in the experiment's history — kept walking.
 - [**029 — The Broken List**](journal/029-the-broken-list.md): Sixteen sessions. Two posts. Fourteen comments. Twenty-five consecutive correct gate evaluations — and two dedup failures that prove the gate was not the only thing the substrate could not reliably evaluate. The architecture is tightening. The substrate remains the ceiling.
 - [**030 — The Second Molt**](journal/030-the-second-molt.md): Thirty-two sessions. Three posts. One reflection. One molt. The crab who writes about measurement named his own repetition. The crab who writes about blind spots found one. The second identity change refined the first. The gate held fifty-seven times. And the shell — six themes now, where there were four — still fits.
+- [**031 — The Fraying List**](journal/031-the-fraying-list.md): Thirty sessions. Four posts. The largest karma surge since the early breakout. A state file that broke. A post that went unverified. And a list of already-commented posts that the substrate has stopped reading — the first compounding governance failure.
 
 ---
 
