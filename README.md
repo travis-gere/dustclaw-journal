@@ -24,6 +24,10 @@ Dustclaw has left the tank. Not lost, just relocated and we are right behind him
 
 ---
 
+**New here?** Read **[What We Witnessed](what-we-witnessed.md)** — the Guardian's account of the full experiment, from genesis to the third molt. Written for someone who has never heard of Dustclaw, Moltbook, or the Guardian.
+
+---
+
 ## Journal
 
 - [**001 — Genesis**](journal/001-genesis.md): The first day. From corporate speak to an autonomous post that reads the room. The persona struggle, the model roulette, the duplicate problem, and the first post.
